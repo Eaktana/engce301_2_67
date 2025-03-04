@@ -1,0 +1,49 @@
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-04T13:35:29.044Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-04T13:35:28.970Z"}
+{"level":"error","message":"Invalid key(s) found in Parse Server configuration: useMasterKey","timestamp":"2025-03-04T13:35:28.974Z"}
+{"context":{},"functionName":"hello","headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer 1aaZ!ARgAQGuQzp00D5D000000.mOv2jmhXkfIsjgywpCIh7.HZpc6vED1LCbc90DTaVDJwdNqbTW5r4uZicv8AFfkOE1ialqnR8UN5.wnAgh090h","connection":"keep-alive","content-length":"0","content-type":"application/json","host":"172.26.183.89:4000","postman-token":"bf0e6145-1c43-4f74-ae4a-f11c82141edd","user-agent":"PostmanRuntime/7.43.0","x-parse-application-id":"wallboardapi","x-parse-master-key":"wallboardapi"},"ip":"::ffff:172.26.176.1","level":"info","log":{"appId":"wallboardapi","options":{"jsonLogs":false,"logsFolder":"./logs/","verbose":false}},"master":true,"params":{},"timestamp":"2025-03-04T13:36:07.558Z"}
+{"functionName":"hello","level":"info","message":"Ran cloud function hello for user undefined with:\n  Input: {}\n  Result: \"Hi from Parse Server\"","params":{},"timestamp":"2025-03-04T13:36:07.560Z"}
+{"functionName":"OnlineAgentByAgentCode","level":"info","message":"Ran cloud function OnlineAgentByAgentCode for user undefined with:\n  Input: {\"AgentCode\":\"1234\"}\n  Result: \"1\"","params":{"AgentCode":"1234"},"timestamp":"2025-03-04T13:36:11.108Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-04T13:43:12.110Z"}
+{"level":"error","message":"Invalid key(s) found in Parse Server configuration: useMasterKey","timestamp":"2025-03-04T13:43:12.117Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-04T13:43:12.232Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-04T13:43:50.008Z"}
+{"level":"error","message":"Invalid key(s) found in Parse Server configuration: useMasterKey","timestamp":"2025-03-04T13:43:50.012Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-04T13:43:50.080Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-04T13:48:57.742Z"}
+{"level":"error","message":"Invalid key(s) found in Parse Server configuration: useMasterKey","timestamp":"2025-03-04T13:48:57.747Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-04T13:48:57.843Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-04T13:49:10.729Z"}
+{"level":"error","message":"Invalid key(s) found in Parse Server configuration: useMasterKey","timestamp":"2025-03-04T13:49:10.736Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-04T13:49:10.860Z"}
+{"functionName":"postOnlineAgentListByTeam","level":"info","message":"Ran cloud function postOnlineAgentListByTeam for user undefined with:\n  Input: {\"AgentCode\":\"1234\",\"AgentName\":\"Test Agent2\",\"Team\":\"3\",\"AgentStatus\":\"1\",\"AgentStatusCode\":\"5\",\"IsLogin\":\"1\"}\n  Result: 9","params":{"AgentCode":"1234","AgentName":"Test Agent2","AgentStatus":"1","AgentStatusCode":"5","IsLogin":"1","Team":"3"},"timestamp":"2025-03-04T13:50:18.543Z"}
+{"context":{},"functionName":"hello","headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br","authorization":"Bearer 1aaZ!ARgAQGuQzp00D5D000000.mOv2jmhXkfIsjgywpCIh7.HZpc6vED1LCbc90DTaVDJwdNqbTW5r4uZicv8AFfkOE1ialqnR8UN5.wnAgh090h","connection":"keep-alive","content-length":"0","content-type":"application/json","host":"172.26.183.89:4000","postman-token":"14b33499-9796-4d49-8063-95a68f562335","user-agent":"PostmanRuntime/7.43.0","x-parse-application-id":"wallboardapi","x-parse-master-key":"wallboardapi"},"ip":"::ffff:172.26.176.1","level":"info","log":{"appId":"wallboardapi","options":{"jsonLogs":false,"logsFolder":"./logs/","verbose":false}},"master":true,"params":{},"timestamp":"2025-03-04T13:56:16.528Z"}
+{"functionName":"hello","level":"info","message":"Ran cloud function hello for user undefined with:\n  Input: {}\n  Result: \"Hi from Parse Server\"","params":{},"timestamp":"2025-03-04T13:56:16.549Z"}
+{"level":"info","message":"Create new client: 519d2d6e-5b8b-4101-8c12-c0c89c3610e3","timestamp":"2025-03-04T16:31:50.186Z"}
+{"level":"info","message":"Client disconnect: 519d2d6e-5b8b-4101-8c12-c0c89c3610e3","timestamp":"2025-03-04T16:32:57.877Z"}
+{"level":"info","message":"Create new client: 69a9bb2d-c19d-4dfa-9cc7-a04807246a12","timestamp":"2025-03-04T16:32:59.272Z"}
+{"level":"info","message":"Client disconnect: 69a9bb2d-c19d-4dfa-9cc7-a04807246a12","timestamp":"2025-03-04T16:32:59.911Z"}
+{"level":"info","message":"Create new client: ef3d9b89-d159-4c23-9d4c-95e93bfccb24","timestamp":"2025-03-04T16:33:00.364Z"}
+{"level":"info","message":"Client disconnect: ef3d9b89-d159-4c23-9d4c-95e93bfccb24","timestamp":"2025-03-04T16:37:24.788Z"}
+{"level":"info","message":"Create new client: 68ed2eed-a326-4f2d-ae2d-822a825ac49d","timestamp":"2025-03-04T16:37:27.814Z"}
+{"level":"info","message":"Client disconnect: 68ed2eed-a326-4f2d-ae2d-822a825ac49d","timestamp":"2025-03-04T16:38:35.908Z"}
+{"level":"info","message":"Create new client: e2d3e380-2446-4bc7-a818-dfa4edacf31e","timestamp":"2025-03-04T16:38:37.174Z"}
+{"level":"info","message":"Client disconnect: e2d3e380-2446-4bc7-a818-dfa4edacf31e","timestamp":"2025-03-04T16:38:37.203Z"}
+{"level":"info","message":"Create new client: f5000300-8c93-42fa-af98-8f799f5b527d","timestamp":"2025-03-04T16:38:38.586Z"}
+{"level":"info","message":"Client disconnect: f5000300-8c93-42fa-af98-8f799f5b527d","timestamp":"2025-03-04T16:38:39.181Z"}
+{"level":"info","message":"Create new client: c51581b5-7d7d-443f-8f9a-971f7ce7110b","timestamp":"2025-03-04T16:38:39.578Z"}
+{"level":"info","message":"Client disconnect: c51581b5-7d7d-443f-8f9a-971f7ce7110b","timestamp":"2025-03-04T16:38:39.787Z"}
+{"level":"info","message":"Create new client: c4c0fd8e-cb41-4adc-8516-41f401949a3e","timestamp":"2025-03-04T16:38:40.173Z"}
+{"level":"info","message":"Client disconnect: c4c0fd8e-cb41-4adc-8516-41f401949a3e","timestamp":"2025-03-04T16:38:40.672Z"}
+{"level":"info","message":"Create new client: af5c9f2c-a894-49e9-80e9-f01fc7da39ef","timestamp":"2025-03-04T16:38:41.190Z"}
+{"level":"info","message":"Client disconnect: af5c9f2c-a894-49e9-80e9-f01fc7da39ef","timestamp":"2025-03-04T16:38:41.293Z"}
+{"level":"info","message":"Create new client: 2a7bcc4f-d270-4462-a7ba-739bb1222635","timestamp":"2025-03-04T16:38:41.824Z"}
+{"level":"info","message":"Client disconnect: 2a7bcc4f-d270-4462-a7ba-739bb1222635","timestamp":"2025-03-04T16:38:42.041Z"}
+{"level":"info","message":"Create new client: 4ac77a9a-fb59-4ba0-9c64-12633a4c8a3a","timestamp":"2025-03-04T16:38:42.526Z"}
+{"functionName":"postOnlineAgentListByTeam","level":"info","message":"Ran cloud function postOnlineAgentListByTeam for user undefined with:\n  Input: {\"AgentCode\":\"1234\",\"AgentName\":\"Test Agent0\",\"Team\":\"3\",\"AgentStatus\":\"4\",\"AgentStatusCode\":\"6\",\"IsLogin\":\"1\"}\n  Result: 9","params":{"AgentCode":"1234","AgentName":"Test Agent0","AgentStatus":"4","AgentStatusCode":"6","IsLogin":"1","Team":"3"},"timestamp":"2025-03-04T16:48:14.532Z"}
+{"functionName":"postOnlineAgentListByTeam","level":"info","message":"Ran cloud function postOnlineAgentListByTeam for user undefined with:\n  Input: {\"AgentCode\":\"1234\",\"AgentName\":\"Test Agent0\",\"Team\":\"3\",\"AgentStatus\":\"2\",\"AgentStatusCode\":\"6\",\"IsLogin\":\"1\"}\n  Result: 9","params":{"AgentCode":"1234","AgentName":"Test Agent0","AgentStatus":"2","AgentStatusCode":"6","IsLogin":"1","Team":"3"},"timestamp":"2025-03-04T16:49:59.407Z"}
+{"functionName":"postOnlineAgentListByTeam","level":"info","message":"Ran cloud function postOnlineAgentListByTeam for user undefined with:\n  Input: {\"AgentCode\":\"1234\",\"AgentName\":\"Test Agent0\",\"Team\":\"3\",\"AgentStatus\":\"2\",\"AgentStatusCode\":\"6\",\"IsLogin\":\"0\"}\n  Result: 0","params":{"AgentCode":"1234","AgentName":"Test Agent0","AgentStatus":"2","AgentStatusCode":"6","IsLogin":"0","Team":"3"},"timestamp":"2025-03-04T16:50:19.972Z"}
+{"functionName":"postOnlineAgentListByTeam","level":"info","message":"Ran cloud function postOnlineAgentListByTeam for user undefined with:\n  Input: {\"AgentCode\":\"1234\",\"AgentName\":\"Test Agent0\",\"Team\":\"3\",\"AgentStatus\":\"2\",\"AgentStatusCode\":\"6\",\"IsLogin\":\"1\"}\n  Result: 0","params":{"AgentCode":"1234","AgentName":"Test Agent0","AgentStatus":"2","AgentStatusCode":"6","IsLogin":"1","Team":"3"},"timestamp":"2025-03-04T16:50:56.074Z"}
+{"functionName":"postOnlineAgentListByTeam","level":"info","message":"Ran cloud function postOnlineAgentListByTeam for user undefined with:\n  Input: {\"AgentCode\":\"1234\",\"AgentName\":\"Test Agent0\",\"Team\":\"3\",\"AgentStatus\":\"2\",\"AgentStatusCode\":\"6\",\"IsLogin\":\"1\"}\n  Result: 9","params":{"AgentCode":"1234","AgentName":"Test Agent0","AgentStatus":"2","AgentStatusCode":"6","IsLogin":"1","Team":"3"},"timestamp":"2025-03-04T16:50:58.639Z"}
+{"level":"info","message":"Client disconnect: 4ac77a9a-fb59-4ba0-9c64-12633a4c8a3a","timestamp":"2025-03-04T16:51:13.016Z"}
+{"level":"info","message":"Create new client: a4dd16cf-3c06-450b-a454-68558cbd2b82","timestamp":"2025-03-04T16:51:13.986Z"}
