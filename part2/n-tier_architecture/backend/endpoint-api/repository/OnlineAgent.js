@@ -13,7 +13,7 @@ async function getOnlineAgentByAgentCode(agentcode) {
         let pool = await sql.connect(sqlConfig);
 
         let result = await pool.request().query(`SELECT * FROM [OnlineAgents] WHERE [agent_code] = '${agentcode}'`); //@agentcode
-       
+
         console.log("result: ", result);
 
         if (!result || result.recordsets[0].length === 0) {
@@ -44,6 +44,7 @@ async function getOnlineAgentByAgentCode(agentcode) {
          });
     }
 }
+
 
 async function postOnlineAgentStatus(AgentCode, AgentName, IsLogin, AgentStatus) {
 
@@ -107,9 +108,8 @@ async function postOnlineAgentStatus(AgentCode, AgentName, IsLogin, AgentStatus)
 
 }
 
-module.exports.OnlineAgentRepo = {
 
+module.exports.OnlineAgentRepo = {
     getOnlineAgentByAgentCode: getOnlineAgentByAgentCode,
     postOnlineAgentStatus, postOnlineAgentStatus
-
 }
